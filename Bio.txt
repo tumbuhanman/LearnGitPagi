@@ -11,3 +11,4 @@ Tester
 coba
 logat
 dunia 
+asal
