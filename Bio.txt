@@ -5,3 +5,4 @@ git config --global user.email "clemens.ganteng@gmail.com"
 git config --global user.name "clemensferryanto"
 Tester
 coba
+logat
