@@ -10,3 +10,4 @@ git config --global user.name "clemensferryanto"
 Tester
 coba
 logat
+dunia 
